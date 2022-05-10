@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ui>
+
+    <panel id="main" title="Test1" layout="flow">
+    </panel>
+
+    <panel id="main2" title="Test2" layout="flow">
+
+    </panel>
+
+</ui>
