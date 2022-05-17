@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <ui>
 
-    <panel id="main" title="Test1" layout="flow">
+    <panel id="main" title="Test1" layout="border">
+
+
+
     </panel>
 
     <panel id="main2" title="Test2" layout="flow">
+
+        <up>
+            <panel>
+                <text>上</text>
+            </panel>
+        </up>
+
+        <down>
+            <panel>
+                <text>下</text>
+            </panel>
+        </down>
+
+        <left>
+            <panel>
+                <text>左</text>
+            </panel>
+        </left>
+
+        <right>
+            <panel>
+                <text>右</text>
+            </panel>
+        </right>
+
+        <center>
+            <panel>
+                <text>中间</text>
+            </panel>
+        </center>
 
     </panel>
 
